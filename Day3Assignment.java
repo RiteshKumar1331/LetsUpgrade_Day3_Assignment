@@ -1,4 +1,4 @@
-package com.CodeWithHarry;
+package com.JavaFolder;
 
 import java.util.Scanner;
 
